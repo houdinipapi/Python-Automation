@@ -3,4 +3,4 @@
 name = input("What's your name? ")
 origin = input("Where are you from? ")
 
-print(f"Hello, I am {name} from {origin}")
+print(f"Hello, I am {name} from {origin}.")
